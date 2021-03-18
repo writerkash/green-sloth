@@ -1,5 +1,5 @@
 ---
-title: Applications
+title: Applications of Stackbit
 weight: 0
 excerpt: lorem-ipsum
 seo:
